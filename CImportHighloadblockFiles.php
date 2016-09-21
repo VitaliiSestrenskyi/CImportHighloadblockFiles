@@ -122,7 +122,7 @@ class CImportHighloadblockFiles{
 }//end Class
 ?>
 
-<?
+<?/*
 <?xml version="1.0" encoding="UTF-8"?>
 <КоммерческаяИнформация xmlns="urn:1C.ru:commerceml_2" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ВерсияСхемы="2.09" ДатаФормирования="2016-09-20T16:12:12" Ид="1">
 	<ПользовательскиеСправочники СодержитТолькоИзменения="true">
@@ -217,7 +217,7 @@ class CImportHighloadblockFiles{
 		</Справочник>
 	</ПользовательскиеСправочники>
 </КоммерческаяИнформация>
-?>
+*/?>
 
 
 
